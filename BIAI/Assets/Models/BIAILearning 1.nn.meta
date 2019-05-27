@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d78b1ed28900a1840879b770654a4865
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/ML-Agents/Examples/BIAI/Assets/Models/BIAILearning 1.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
